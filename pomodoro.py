@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Git learning: first local modification
 """
 桌面番茄钟 — 基于 Python/tkinter 的暖色浅色主题生产力计时器。
 ==============================================================
